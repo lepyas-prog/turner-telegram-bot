@@ -17,7 +17,7 @@ import database
 logging.basicConfig(level=logging.INFO)
 
 # Инициализация
-bot = Bot(token=config.BOT_TOKEN)
+bot = Bot(token=config.8252283540:AAENRCiE0Pza0_HNDSrL3UcFb6-CLgtBEfU)
 dp = Dispatcher()
 
 # --- Машина состояний ---
